@@ -1,0 +1,16 @@
+.container {
+    boder: solid red 2px;
+}
+
+.restrauntPic {
+    width: 200px;
+}
+
+.menu {
+    border: 5px solid #ff5722; /* Orange border color */
+    background: linear-gradient(135deg, #ff5722, #1e1e1e); /* Orange to Black gradient */
+    color: white; /* Text color for better visibility on the dark background */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* A subtle box shadow */
+    border-radius: 10px;
+}
